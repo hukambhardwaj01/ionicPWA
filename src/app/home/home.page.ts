@@ -13,6 +13,7 @@ import { CommonModule } from '@angular/common';
   imports: [IonicModule,CommonModule],
 })
 export class HomePage {
+  
 
   myImage:any;
   position: Position | any;
